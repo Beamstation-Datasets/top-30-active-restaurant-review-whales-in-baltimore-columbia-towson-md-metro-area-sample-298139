@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Baltimore-Columbia-Towson, MD Metro Area, US",
+  "export_job_id": "7a8f60e4-f8cd-4569-97d5-96a480872dd4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 298139,
+  "location_name": "Baltimore-Columbia-Towson, MD",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-baltimore-columbia-towson-md-metro-area-sample-298139",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/298139/beamstation_298139_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
+  "sample_pct": 1.75,
+  "sample_records": 10,
+  "sample_sha256": "d7ca8fae61f84b3950f0feec41558e03ed90860dc14510f00c57ccfceea4d8d2",
+  "sample_size_bytes": 57000,
+  "total_records": 573,
+  "updated_at": "2026-04-01T00:32:30.194593+00:00"
+}
