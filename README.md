@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Baltimore-Columbia-Towson, MD Metro Area, US
 
-> Free BeamStation sample export with 93 rows and masked direct-contact fields.
+> Free BeamStation sample export with 81 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `298139` |
 | Location | Baltimore-Columbia-Towson, MD |
 | Category | Restaurants |
-| Full dataset size | 932 records |
-| Free sample size | 93 records (9.98%) |
-| Last export | 2026-04-15T02:19:20.229494+00:00 |
+| Full dataset size | 815 records |
+| Free sample size | 81 records (9.94%) |
+| Last export | 2026-04-22T07:16:42.706679+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-baltimore-columbia-towson-md-metro-area-sample-298139/releases/download/sample-latest/beamstation_298139_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
