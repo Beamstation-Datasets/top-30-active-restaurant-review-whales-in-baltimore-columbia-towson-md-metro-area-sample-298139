@@ -1,12 +1,12 @@
 {
-  "export_job_id": "307bf34e-f381-4d36-a3cf-96dbbd1ddc50",
+  "export_job_id": "4a7a877c-5477-4ad1-b940-f7c23c7ca96e",
   "id_short": 298139,
-  "published_at": "2026-04-18T07:48:09Z",
+  "published_at": "2026-04-22T19:30:43Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-baltimore-columbia-towson-md-metro-area-sample-298139",
   "sample_asset_name": "beamstation_298139_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/298139/beamstation_298139_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
-  "sample_records": 93,
-  "sample_sha256": "298c8def62d88880d927c229dbc551d3d80450701486076b08b0a62207d33439",
-  "sample_size_bytes": 373962,
-  "total_records": 932
+  "sample_records": 81,
+  "sample_sha256": "2071dbd226a5a8aa621ed1941db4ff68776439d6d98b0b0f72f026fa8d314d15",
+  "sample_size_bytes": 326800,
+  "total_records": 815
 }
